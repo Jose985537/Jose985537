@@ -62,7 +62,7 @@ Desarrollador especializado en **Python** con experiencia en creación de herram
 
 ## 📬 **Contacto**  
 
-[![Email](https://img.shields.io/badge/gc544592@gmail.com-Contactarme%20vía%20Email-red?style=for-the-badge&logo=gmail)](mailto:gc5444592@gmail.com)  
+[![Email](https://img.shields.io/badge/gc5444592@gmail.com-Contactarme%20vía%20Email-red?style=for-the-badge&logo=gmail)](mailto:gc5444592@gmail.com)  
 [![GitHub](https://img.shields.io/badge/JoseGabrielCM-Mira%20mis%20otros%20proyectos-black?style=for-the-badge&logo=github)](https://github.com/tu_usuario)  
 
 <p align="center">
