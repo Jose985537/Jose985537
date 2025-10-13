@@ -10,33 +10,25 @@ Profesional especializado en **desarrollo de soluciones con Python** y administr
 ✅ **Seguridad informática** e implementación de medidas preventivas  
 
 ---
+
+## 🎓 **Educación**  
+**Analista en Sistemas** | SENA | 2020 – 2021  
+**ADS Análisis y Desarrollo de Sistemas de Información** | SENA | 2024 – 2025  
+**Bachiller Académico** | San Judas Tadeo | 2014 – 2018  
+
+---
+
 ## 💼 **Experiencia Laboral**  
 
 ### **RPG Soluciones 2021 C.A** | *Actualmente*  
 **Técnico de Campo - Punto de Venta Banesco** | Zona Metropolitana  
-- Brindé soporte técnico presencial para mejorar la experiencia del cliente  
-- Colaboración con equipo remoto para resolver problemas en puntos de venta  
-- Optimización de eficiencia del servicio  
-
-### **Procesadora Agroindustrial de Venezuela C.A** | Enero - Julio 2024  
-- Soporte técnico presencial para mejorar la experiencia del cliente  
-- Colaboración con equipo remoto para resolución de problemas  
-- Optimización de eficiencia del servicio  
+Soporte técnico presencial y remoto, resolución de problemas técnicos recurrentes y optimización de eficiencia del servicio.
 
 ### **RioSupermarket** | 2023 - 2024  
-- Identificación y resolución de problemas técnicos recurrentes  
-- Implementación de soluciones para optimizar eficiencia y calidad del servicio  
+Identificación y resolución de problemas técnicos, implementación de soluciones para optimizar eficiencia y calidad del servicio.
 
 ### **Instituto el Riñón de Sucre** | 2022 - 2023  
-- Supervisión de infraestructura de redes y servidores  
-- Desarrollo de procedimientos para garantizar continuidad del servicio  
-- Establecimiento de planes de recuperación ante fallos y amenazas de seguridad  
-- Implementación de base de conocimientos para resolución autónoma de problemas  
-
-### **Constructora Carlos Andrés Ferrer** | 2020 - 2021  
-- Resolución de incidencias en sistemas Windows y macOS  
-- Gestión de software de oficina y aplicaciones empresariales  
-- Implementación de base de conocimientos para usuarios  
+Supervisión de infraestructura de redes y servidores, desarrollo de procedimientos de continuidad del servicio y planes de recuperación ante fallos.  
 
 ---
 
@@ -56,7 +48,7 @@ Profesional especializado en **desarrollo de soluciones con Python** y administr
 **GUI para conversión de formatos**  
 <p align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyQt-Dark.svg" alt="PyQt" width="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Qt-Dark.svg" alt="Qt" width="50"/>
 </p>  
 - Soporte para JPG, PNG, BMP y TIFF  
 - Detección automática de formatos  
@@ -66,7 +58,7 @@ Profesional especializado en **desarrollo de soluciones con Python** y administr
 **Suite de mantenimiento para Windows**  
 <p align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Batch.svg" alt="Batch" width="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" alt="Windows" width="50"/>
 </p>  
 - Limpieza y optimización del sistema  
 - Gestión de red y configuración de firewall  
@@ -116,6 +108,11 @@ Profesional especializado en **desarrollo de soluciones con Python** y administr
 - Seguridad informática e implementación de medidas preventivas  
 - Copias de seguridad y recuperación ante fallos  
 - Diseño gráfico y edición de imágenes con Adobe Photoshop  
+
+---
+
+## 📍 **Ubicación**  
+El Llanito, Av Guaicaipuro | Zona Metropolitana  
 
 ---
 
