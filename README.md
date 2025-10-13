@@ -79,7 +79,6 @@ Supervisión de infraestructura de redes y servidores, desarrollo de procedimien
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" alt="Windows" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerShell.svg" alt="PowerShell" width="50"/>
 </p>  
 
 **Lenguajes de Programación:** Python (3.x), JavaScript, PHP, Java, HTML5, CSS3, Batch Scripting  
@@ -111,18 +110,13 @@ Supervisión de infraestructura de redes y servidores, desarrollo de procedimien
 
 ---
 
-## 📍 **Ubicación**  
-El Llanito, Av Guaicaipuro | Zona Metropolitana  
-
----
-
 ## 📬 **Contacto**  
 [![Email](https://img.shields.io/badge/gc5444592@gmail.com-Contactarme%20vía%20Email-red?style=for-the-badge&logo=gmail)](mailto:gc5444592@gmail.com)  
 [![GitHub](https://img.shields.io/badge/JoseGabrielCM-Mira%20mis%20proyectos-black?style=for-the-badge&logo=github)](https://github.com/tu_usuario)  
 [![Teléfono](https://img.shields.io/badge/04242595079-Llamar-green?style=for-the-badge&logo=whatsapp)](tel:04242595079)  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,terminal,photoshop" alt="Tools" width="200"/>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,photoshop" alt="Tools" width="200"/>
 </p>  
 
 *"Transformo problemas técnicos en soluciones eficientes con código claro, funcional y seguro"*
