@@ -11,27 +11,6 @@ Profesional especializado en **desarrollo de soluciones con Python** y administr
 
 ---
 
-## 🎓 **Educación**  
-**Analista en Sistemas** | SENA | 2020 – 2021  
-**ADS Análisis y Desarrollo de Sistemas de Información** | SENA | 2024 – 2025  
-**Bachiller Académico** | San Judas Tadeo | 2014 – 2018  
-
----
-
-## 💼 **Experiencia Laboral**  
-
-### **RPG Soluciones 2021 C.A** | *Actualmente*  
-**Técnico de Campo - Punto de Venta Banesco** | Zona Metropolitana  
-Soporte técnico presencial y remoto, resolución de problemas técnicos recurrentes y optimización de eficiencia del servicio.
-
-### **RioSupermarket** | 2023 - 2024  
-Identificación y resolución de problemas técnicos, implementación de soluciones para optimizar eficiencia y calidad del servicio.
-
-### **Instituto el Riñón de Sucre** | 2022 - 2023  
-Supervisión de infraestructura de redes y servidores, desarrollo de procedimientos de continuidad del servicio y planes de recuperación ante fallos.  
-
----
-
 ## 🛠 **Proyectos Destacados**  
 
 ### 📂 [FolderMapper](https://github.com/tu_usuario/foldermapper)  
