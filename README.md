@@ -76,7 +76,7 @@ Desarrollador enfocado en la creación de **herramientas de utilidad práctica**
     <img src="https://img.shields.io/badge/Email-gc5444592@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   <a href="https://github.com/JCalderon.Tech">
-    <img src="https://img.shields.io/badge/GitHub-Jose985537-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-JCalderon.Tech-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://wa.me/584242595079">
     <img src="https://img.shields.io/badge/WhatsApp-Mensaje-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
